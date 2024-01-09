@@ -3,7 +3,7 @@
 
 # calculadora_simples_python
 <h1>Descrição</h1>
-<p>Projeto simples de uma calculadora desenvolvida em Python utilizando a ferramenta TKinter para criar uma interface. Arquivo também em formato executável para que depois de descompactada funcionar em qualquer computador sem a necessidade de instalar nenhum programa</p>
+<p>Projeto simples de uma calculadora desenvolvida em Python utilizando a ferramenta TKinter para criar uma interface. Arquivo também em formato executável para que, depois de descompactado, funcione em qualquer computador sem a necessidade de instalar nenhum programa.</p>
 <h1>Tecnologias utilizadas:</h1>
 <ul>
   <li>Python</li>
